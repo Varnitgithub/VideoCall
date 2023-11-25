@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">Video Call</string>
+    <string name="default_web_client_id">863484531116-6bqo5db1b5hv9g9nv7sj18g7m0qf04eg.apps.googleusercontent.com</string>
+    <string name="you_have_500"> you have : 0 </string>
+</resources>

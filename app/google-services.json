@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "863484531116",
+    "project_id": "chat-with-cherry",
+    "storage_bucket": "chat-with-cherry.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:863484531116:android:93328ee49eda1d5bd32a09",
+        "android_client_info": {
+          "package_name": "com.myapp.videocall"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "863484531116-6bqo5db1b5hv9g9nv7sj18g7m0qf04eg.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.myapp.videocall",
+            "certificate_hash": "b046211fb4aa607a10f1405ab7cc3bf3572251ab"
+          }
+        },
+        {
+          "client_id": "863484531116-1pn3cio4cviho1l85gmoruf80f3i7vt5.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDjKDaSokiWNm9zx4RAn63PcVJPCXjWN_Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "863484531116-1pn3cio4cviho1l85gmoruf80f3i7vt5.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
